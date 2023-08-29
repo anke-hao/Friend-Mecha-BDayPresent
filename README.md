@@ -4,6 +4,8 @@
 Welcome to the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D platformer who navigates the environment and fight against mechas representing the ~~grueling computer science courses and~~ challenges we faced together throughout our college experience. 
 
 ## How To Play
+<img align="left" src="https://github.com/anke-hao/Friend-Mecha-BDayPresent/blob/main/Screenshots/Fall%20Q%20Workspace.png" style="height: 330px; width:400px;">
+
 ### Basic Commands
 - As the main player, navigate with WASD and press C to shoot.
 - As Anke (your new buddy!), navigate with IJKL and press N to shoot.
