@@ -37,8 +37,9 @@ The game was built in Unity2D, with the use of C# scripts for the following:
 - miscellaneous handling of object animations and switching between scenes (DontDestroy, NextScene, OpenDoor).
 - handling the final ending scene (Ending)
 
-## Visual Assets
-All the visual assets, including the playable character and all the environmental assets, were sourced from [Trevor Pupkin's](https://trevor-pupkin.itch.io/) [Tech Dungeon: Roguelite Pixel Art Assets Pack](https://trevor-pupkin.itch.io/tech-dungeon-roguelite), which is licensed for personal and commercial use.
+## Visual and Audio Assets
+- All the visual assets, including the playable character and all the environmental assets, were sourced from [Trevor Pupkin's](https://trevor-pupkin.itch.io/) [Tech Dungeon: Roguelite Pixel Art Assets Pack](https://trevor-pupkin.itch.io/tech-dungeon-roguelite), which is licensed for personal and commercial use.
+- The background music was sourced from [TallBeard Studios's](https://tallbeard.itch.io/) [Music Loop Bundle](https://tallbeard.itch.io/music-loop-bundle).
   
 ## Future Additions/Bugfixes
 ### Additions/Revisions
