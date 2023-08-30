@@ -1,7 +1,7 @@
 # Mecha Mania (Friend Birthday Present Series)
 
 ## Introduction
-Welcome to the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D platformer who navigates the environment and fight against mechas representing the ~~grueling computer science courses and~~ challenges we faced together throughout our college experience. 
+Welcome to [Mecha Mania](https://ankehao.itch.io/mecha-mania), the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D platformer who navigates the environment and fight against mechas representing the ~~grueling computer science courses and~~ challenges we faced together throughout our college experience. 
 
 ## How To Play
 
