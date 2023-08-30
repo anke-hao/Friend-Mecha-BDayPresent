@@ -56,7 +56,7 @@ The game was built in Unity2D, with the use of C# scripts for the following:
 
 ### Additions/Revisions
 - A proper start/ending screen with the option to begin or replay the experience.
-- The physics system right now is such that the player's bullets push the mecha back (i.e., the bullets have mass). I decided to keep this over having phantom bullets, but it would be nice to incorporate some type of friction for the mechas so they don't slide as smoothly/quickly backward under a hail of bullets.
+- The physics system right now is such that the player and their bullets push the mecha back (i.e., the bullets have mass). It'd be good to finetune the physics system to account for the perceived size difference between player/bullet and mecha.
 ### Bugfixes
 - If the screen is too big (i.e. a monitor), Anke's bullets may have no effect on the mechas even if you see her running around and shooting, as the mechas and their HP won't be activated unless the main player is within range and the screen size may be bigger than the range needed to activate them.
 
